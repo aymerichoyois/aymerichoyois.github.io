@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>My project</title>
+      <title>Premier projet</title>
       <link>/project/example-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/example-project/</guid>
-      <description>Here I describe my project using Markdown formatting...</description>
+      <description>Nous apprenons actuellement à créer des graphiques et gérer des données avec la SciViews Box et plus précisément le programme RStudio...</description>
     </item>
     
   </channel>
